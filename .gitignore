@@ -1,0 +1,13 @@
+
+# Python environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large dataset
+data/covid_data.csv
+
+# Jupyter files
+.ipynb_checkpoints/
